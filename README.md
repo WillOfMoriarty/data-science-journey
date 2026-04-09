@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Karel Andrean
+# 👋 Hi, I'm Riel
 
 Welcome to my Data Science Journey repository 🚀
 
