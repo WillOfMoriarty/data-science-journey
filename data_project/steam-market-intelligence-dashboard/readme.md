@@ -1,4 +1,4 @@
-# ** Steam Market Intelligence Dashboard **
+# **Steam Market Intelligence Dashboard**
 ## **Project Overview**
 
 This project is an end-to-end data analytics portfolio project focused on analyzing the Steam game marketplace.
@@ -58,8 +58,8 @@ Steam Store Top Sellers
 * review_clean
 * discount_clean
 
-## **Dashboard Features **
-** Executive Customer Sentiment Overview **
+## **Dashboard Features**
+**Executive Customer Sentiment Overview**
 
 Main dashboard focuses on customer sentiment and review intelligence:
 
