@@ -12,7 +12,7 @@ Product recommendation insights
 
 The project simulates the role of a Data Analyst working in a gaming market intelligence environment.
 
-**Business Objective**
+## **Business Objective**
 
 The purpose of this project is to understand how games are positioned in the Steam marketplace by analyzing:
 
@@ -23,7 +23,7 @@ Top-performing and highly reviewed games
 
 The dashboard is designed to help stakeholders quickly understand customer preferences and market patterns.
 
-**Tech Stack**
+## **Tech Stack**
 Python
 Pandas
 BeautifulSoup
@@ -36,28 +36,30 @@ The project follows a structured analytics workflow:
 
 Raw Data → Data Cleaning → SQL Storage → Analysis → Power BI Dashboard
 
-Workflow Steps
+**Workflow Steps**
+-------------------
 Scrape Steam marketplace data using Python and BeautifulSoup
 Clean and transform raw data using Pandas
 Store cleaned data in SQL Server
 Perform SQL analysis queries
 Build interactive dashboard in Power BI
-Dataset Information
-Source
 
+## **Dataset Information**
+**Source**
 Steam Store Top Sellers
 
-Collected Features
-Game Title
-Price
-Review
-Discount
-Cleaned Features
-price_clean
-review_clean
-discount_clean
-Dashboard Features
-Executive Customer Sentiment Overview
+**Collected Features**
+* Game Title
+* Price
+* Review
+* Discount
+** Cleaned Features **
+* price_clean
+* review_clean
+* discount_clean
+
+## **Dashboard Features **
+** Executive Customer Sentiment Overview **
 
 Main dashboard focuses on customer sentiment and review intelligence:
 
@@ -65,7 +67,8 @@ Total games analyzed
 Review distribution
 Most positively reviewed games
 Customer recommendation-oriented insights
-Key Insights
+
+## **Key Insights**
 Positive reviews dominate the Steam top-seller market
 Several games consistently receive strong community reception
 Free-to-play games remain important in multiplayer/live-service categories
