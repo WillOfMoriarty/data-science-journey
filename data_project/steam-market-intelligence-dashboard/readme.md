@@ -1,5 +1,5 @@
-Steam Market Intelligence Dashboard
-Project Overview
+# ** Steam Market Intelligence Dashboard **
+## **Project Overview**
 
 This project is an end-to-end data analytics portfolio project focused on analyzing the Steam game marketplace.
 The objective is to collect, process, store, and visualize Steam marketplace data to generate business insights related to:
@@ -12,7 +12,7 @@ Product recommendation insights
 
 The project simulates the role of a Data Analyst working in a gaming market intelligence environment.
 
-Business Objective
+**Business Objective**
 
 The purpose of this project is to understand how games are positioned in the Steam marketplace by analyzing:
 
@@ -23,7 +23,7 @@ Top-performing and highly reviewed games
 
 The dashboard is designed to help stakeholders quickly understand customer preferences and market patterns.
 
-Tech Stack
+**Tech Stack**
 Python
 Pandas
 BeautifulSoup
